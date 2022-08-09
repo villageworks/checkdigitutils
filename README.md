@@ -15,5 +15,5 @@
 
 開発にあたって、以下のページを参考にしました：
 
-	- [［メモ］各種チェックデジットの計算方法](https://qiita.com/yoshi389111/items/00ca7b3ed9ceac904cde)
+[［メモ］各種チェックデジットの計算方法](https://qiita.com/yoshi389111/items/00ca7b3ed9ceac904cde)
 	
